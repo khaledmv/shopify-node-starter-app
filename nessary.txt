@@ -1,0 +1,3 @@
+1. npm install react react-dom next
+2. npm install dotenv
+3. npm install koa @shopify/koa-shopify-auth koa-session isomorphic-fetch
