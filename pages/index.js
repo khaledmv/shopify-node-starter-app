@@ -1,9 +1,11 @@
-
+import {Card} from '@shopify/polaris';
 const Index = () => (
 
-  <div>
-    <h1>This is shopify Apps</h1>
-</div>
+
+    <Card title="Online store dashboard" sectioned>
+      <p>View a summary of your online store’s performance.</p>
+    </Card>
+
 );
 
 
